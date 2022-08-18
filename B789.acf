@@ -154,7 +154,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 0.0
 P _gear/0/_scon 184332.859375000
-P _gear/0/_stat_def 0.141913235
+P _gear/0/_stat_def 0.141913176
 P _gear/0/_steerdeg_hispeed 0.0
 P _gear/0/_steerdeg_lospeed 0.0
 P _gear/0/_strut_comp 0.0
@@ -188,7 +188,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 184332.859375000
-P _gear/1/_stat_def 1.428973198
+P _gear/1/_stat_def 1.428972960
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -222,7 +222,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 184332.859375000
-P _gear/2/_stat_def 1.428973198
+P _gear/2/_stat_def 1.428972960
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -265,17 +265,6 @@ P _obja/1/_v10_att_y_acf_prt_ref 4.265091419
 P _obja/1/_v10_att_z_acf_prt_ref 14.763779640
 P _obja/1/_v10_is_internal 0
 P _obja/1/_v10_steers_with_gear 0
-P _obja/10/_obj_flags 0
-P _obja/10/_v10_att_file_stl Cockpit.obj
-P _obja/10/_v10_att_part -1
-P _obja/10/_v10_att_phi_ref 0.0
-P _obja/10/_v10_att_psi_ref 0.0
-P _obja/10/_v10_att_the_ref 0.0
-P _obja/10/_v10_att_x_acf_prt_ref 0.0
-P _obja/10/_v10_att_y_acf_prt_ref 0.0
-P _obja/10/_v10_att_z_acf_prt_ref 0.0
-P _obja/10/_v10_is_internal 0
-P _obja/10/_v10_steers_with_gear 0
 P _obja/2/_obj_flags 16
 P _obja/2/_v10_att_file_stl LEngines.obj
 P _obja/2/_v10_att_part 40
@@ -354,7 +343,7 @@ P _obja/8/_v10_att_z_acf_prt_ref -1.607611537
 P _obja/8/_v10_is_internal 0
 P _obja/8/_v10_steers_with_gear 0
 P _obja/9/_obj_flags 0
-P _obja/9/_v10_att_file_stl cabin.obj
+P _obja/9/_v10_att_file_stl Cockpit.obj
 P _obja/9/_v10_att_part -1
 P _obja/9/_v10_att_phi_ref 0.0
 P _obja/9/_v10_att_psi_ref 0.0
@@ -364,7 +353,7 @@ P _obja/9/_v10_att_y_acf_prt_ref 0.0
 P _obja/9/_v10_att_z_acf_prt_ref 0.0
 P _obja/9/_v10_is_internal 0
 P _obja/9/_v10_steers_with_gear 0
-P _obja/count 11
+P _obja/count 10
 P _panel_inst_3d 0
 P _part/0/_bot_s1 0.0
 P _part/0/_bot_s2 0.015625000
