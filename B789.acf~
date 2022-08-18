@@ -188,7 +188,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 184332.859375000
-P _gear/1/_stat_def 1.428973079
+P _gear/1/_stat_def 1.428972840
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -222,7 +222,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 184332.859375000
-P _gear/2/_stat_def 1.428973079
+P _gear/2/_stat_def 1.428972840
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -4739,7 +4739,7 @@ P _part/16/_part_phi 0.0
 P _part/16/_part_psi 0.0
 P _part/16/_part_rad 0.0
 P _part/16/_part_specs_eq 1
-P _part/16/_part_specs_invis 0
+P _part/16/_part_specs_invis 1
 P _part/16/_part_tex 0
 P _part/16/_part_the 0.0
 P _part/16/_part_x -0.0
@@ -6209,7 +6209,7 @@ P _part/17/_part_phi 0.0
 P _part/17/_part_psi 0.0
 P _part/17/_part_rad 0.0
 P _part/17/_part_specs_eq 1
-P _part/17/_part_specs_invis 0
+P _part/17/_part_specs_invis 1
 P _part/17/_part_tex 0
 P _part/17/_part_the 0.0
 P _part/17/_part_x 0.0
@@ -7679,7 +7679,7 @@ P _part/18/_part_phi 0.0
 P _part/18/_part_psi 0.0
 P _part/18/_part_rad 0.0
 P _part/18/_part_specs_eq 1
-P _part/18/_part_specs_invis 0
+P _part/18/_part_specs_invis 1
 P _part/18/_part_tex 0
 P _part/18/_part_the 0.0
 P _part/18/_part_x 0.0
@@ -13559,7 +13559,7 @@ P _part/8/_part_phi 0.0
 P _part/8/_part_psi 0.0
 P _part/8/_part_rad 2.0
 P _part/8/_part_specs_eq 1
-P _part/8/_part_specs_invis 0
+P _part/8/_part_specs_invis 1
 P _part/8/_part_tex 0
 P _part/8/_part_the 0.0
 P _part/8/_part_x -0.0
@@ -19439,7 +19439,7 @@ P _part/9/_part_phi 0.0
 P _part/9/_part_psi 0.0
 P _part/9/_part_rad 2.0
 P _part/9/_part_specs_eq 1
-P _part/9/_part_specs_invis 0
+P _part/9/_part_specs_invis 1
 P _part/9/_part_tex 0
 P _part/9/_part_the 0.0
 P _part/9/_part_x 0.0
