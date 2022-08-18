@@ -156,7 +156,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 100.0
 P _gear/0/_scon 124444.453125000
-P _gear/0/_stat_def 0.171501756
+P _gear/0/_stat_def 0.171501786
 P _gear/0/_steerdeg_hispeed 5.0
 P _gear/0/_steerdeg_lospeed 60.0
 P _gear/0/_strut_comp 0.0
@@ -190,7 +190,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 0.0
 P _gear/1/_scon 186666.671875000
-P _gear/1/_stat_def 1.442903996
+P _gear/1/_stat_def 1.442904234
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -224,7 +224,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 0.0
 P _gear/2/_scon 186666.671875000
-P _gear/2/_stat_def 1.442903996
+P _gear/2/_stat_def 1.442904234
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -13752,7 +13752,7 @@ P _part/18/_part_phi 0.0
 P _part/18/_part_psi 0.0
 P _part/18/_part_rad 0.0
 P _part/18/_part_specs_eq 1
-P _part/18/_part_specs_invis 0
+P _part/18/_part_specs_invis 1
 P _part/18/_part_tex 0
 P _part/18/_part_the 0.0
 P _part/18/_part_x 0.0
@@ -31396,7 +31396,7 @@ P _part/86/_part_specs_invis 1
 P _part/86/_part_tex 0
 P _part/86/_part_the 0.0
 P _part/86/_part_x -16.500000000
-P _part/86/_part_y -13.057096481
+P _part/86/_part_y -13.057095528
 P _part/86/_part_z 111.199996948
 P _part/86/_patt_con 0
 P _part/86/_patt_prt 0
@@ -32866,7 +32866,7 @@ P _part/87/_part_specs_invis 1
 P _part/87/_part_tex 0
 P _part/87/_part_the 0.0
 P _part/87/_part_x 16.500000000
-P _part/87/_part_y -13.057096481
+P _part/87/_part_y -13.057095528
 P _part/87/_part_z 111.199996948
 P _part/87/_patt_con 0
 P _part/87/_patt_prt 0
@@ -40318,15 +40318,15 @@ P acf/_SFC_half_lo_JET 0.540000021
 P acf/_SFC_half_lo_PRP 0.439999998
 P acf/_TOGA_discos_servos 0
 P acf/_TRQ_is_pcnt 0
-P acf/_Vfe1_kts 999.0
-P acf/_Vfem_kts 0.0
+P acf/_Vfe1_kts 250.0
+P acf/_Vfem_kts 180.0
 P acf/_Vle_kts 999.0
 P acf/_Vmca_kts 0.0
 P acf/_Vne_kts 400.0
-P acf/_Vno_kts 0.0
-P acf/_Vs_kts 140.0
-P acf/_Vso_kts 120.0
-P acf/_Vy_kts 0.0
+P acf/_Vno_kts 510.0
+P acf/_Vs_kts 125.0
+P acf/_Vso_kts 115.0
+P acf/_Vy_kts 210.0
 P acf/_Vyse_kts 0.0
 P acf/_add_def_exceeds_base_def 0
 P acf/_additonal_gear_flatplate 0.0
@@ -41263,7 +41263,7 @@ P acf/_crew_2/0 0.0
 P acf/_crew_2/1 0.0
 P acf/_crew_2/2 0.0
 P acf/_crew_2/count 3
-P acf/_crit_alt_mtr 43100.0
+P acf/_crit_alt_mtr 0.0
 P acf/_cus_dig_dec/0 0
 P acf/_cus_dig_dec/1 0
 P acf/_cus_dig_dec/10 0
